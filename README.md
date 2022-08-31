@@ -1,5 +1,5 @@
 <h1 align="center">oie oie, eu sou o invx</h1>
-<h3 align="center">Entrando no mundo de programação</h3>
+<h3 align="center">todo bocó na programação</h3>
 
 <h3 align="left">Redes sociais!</h3>
 <p align="left">
