@@ -4,7 +4,7 @@
 <h3 align="left">Redes sociais!</h3>
 <p align="left">
 <a href="https://instagram.com/inviquis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inviquis" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yung invx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yung invx" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCpgF4RXeQ3O4FsO-cRvWNgw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yung invx" height="30" width="40" /></a>
 <a href="https://discord.gg/H8nBS7bATY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="H8nBS7bATY" height="30" width="40" /></a>
 </p>
 
